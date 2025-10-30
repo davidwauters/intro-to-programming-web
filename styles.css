@@ -1,0 +1,12 @@
+@font-face {
+    font-family: MapleStory;
+    src: url(assets/Maplestory-OTF-Light.woff);
+}
+
+body { background-color: rgb(197, 255, 242); font-family: MapleStory;}
+h1 { border: thick double #2ac891; color: rgb(7, 69, 69); background-color: aquamarine; font-family: Impact; }
+h2 { color: rgb(7, 69, 69); }
+h3 { color: rgb(7, 69, 69); }
+h4 { color: rgb(7, 69, 69); }
+p {color: rgb(18, 128, 128); }
+a {font-size: 1.1rem; }
